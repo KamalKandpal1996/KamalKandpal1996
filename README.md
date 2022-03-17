@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kamal Kandpal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DL/CV
+- 👋 Hi, I’m Kamal Kandpal.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning DL/CV.
 - 💞️ I’m looking to collaborate on Machine Learning / Deep Learning Projects.
 - 📫 Connect with me through my github profile.
 
